@@ -1,4 +1,5 @@
-# Reinforcement Learning Tutorial
+<h1 align='center'>Reinforcement Learning Tutorial</h1>
+
 ![](dynai.png)
 This repository hosts the code for the reinforcment learning tutorial for the [AI Institute in Dynamic Systems](https://dynamicsai.org/) ML Workshop on Tuesday, June 27th, 2023. 
 
