@@ -20,4 +20,5 @@ The `template.ipynb` file is a skeleton of the `full_tutorial.ipynb` file, which
     - [Gymnasium documentation](https://gymnasium.farama.org/content/basic_usage/#/tutorials/environment_creation) 
  - [OpenAI's Spinning up RL](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)
  - List of Additional [Awesome DRL](https://github.com/kengz/awesome-deep-rl) Resources
-
+ - [Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](https://web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf)
+ - [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf)
