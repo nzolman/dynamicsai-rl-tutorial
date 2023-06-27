@@ -7,6 +7,7 @@ This repository hosts the code for the reinforcment learning tutorial for the [A
 ## Contents
 The `template.ipynb` file is a skeleton of the `full_tutorial.ipynb` file, which houses the full code that accompanies the tutorial.
 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nzolman/dynamicsai-rl-tutorial/blob/main/full_tutorial.ipynb)
 
 ## Contributors:
 - [Nick Zolman](https://github.com/nzolman) (UW)
