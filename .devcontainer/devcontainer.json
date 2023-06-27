@@ -1,0 +1,15 @@
+{
+    "name": "devcontainer for RL tutorial at the NSF AI Institute in Dynamical Systems workshop",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+	    "extensions": [
+		"ms-python.python",
+		"ms-python.vscode-pylance"
+	    ]
+	}
+    },
+    "capAdd": ["SYS_PTRACE"],
+    "securityOpt": ["seccomp=unconfined"],
+    "postCreateCommand": "bash ./.devcontainer/postCreateCommand.sh"
+}
