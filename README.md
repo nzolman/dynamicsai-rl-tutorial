@@ -22,3 +22,9 @@ The `template.ipynb` file is a skeleton of the `full_tutorial.ipynb` file, which
  - List of Additional [Awesome DRL](https://github.com/kengz/awesome-deep-rl) Resources
  - [Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control](https://web.mit.edu/dimitrib/www/LessonsfromAlphazero.pdf)
  - [Illustrating Reinforcement Learning from Human Feedback](https://huggingface.co/blog/rlhf)
+ - Lilian Weng Tutorials on Reinforcement Learning:
+    - [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+    - [Domain Randomization for Sim2Real Transfer](https://lilianweng.github.io/posts/2019-05-05-domain-randomization/)
+    - [Meta Reinforcement Learning](https://lilianweng.github.io/posts/2019-06-23-meta-rl/)
+    - [Curriculum for Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
+    - [Exploration Strategies in Deep Reinforcement Learning](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
