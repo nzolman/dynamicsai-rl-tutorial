@@ -11,7 +11,7 @@ The `template.ipynb` file is a skeleton of the `full_tutorial.ipynb` file, which
 ## Contributors:
 - [Nick Zolman](https://github.com/nzolman) (UW)
 - [Ludger Paehler](https://github.com/ludgerpaehler) (TUM)
-- [Vincent Van Wynendaele](https://github.com/Vinwcent) (ESPCI-Pari PSL)
+- [Vincent Van Wynendaele](https://github.com/Vinwcent) (ESPCI-Paris PSL)
 
 ## Additional Resources:
 - From Workshop Tutorial: 
